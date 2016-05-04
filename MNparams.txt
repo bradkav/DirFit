@@ -1,0 +1,18 @@
+#MultiNest sampling parameters
+
+IS	0
+mmodal	1
+ceff	0
+
+nlive	10000
+efr	0.3
+tol	1e-3
+
+#ndims	4
+#nPar	4
+#nClsPar	4
+
+updInt	100
+fb	1
+
+resume	1

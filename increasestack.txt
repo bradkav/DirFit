@@ -1,0 +1,1 @@
+sudo ulimit -s 65532
